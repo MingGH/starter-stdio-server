@@ -1,3 +1,11 @@
+# ‼️IMPORTANT‼️
+
+The code source of this project is: [spring-ai-examples | starter-stdio-server](https://github.com/spring-projects/spring-ai-examples/tree/main/model-context-protocol/weather/starter-stdio-server), 
+and the OPEN SOURCE LICENSE follows the original project.
+
+本项目代码来源：[spring-ai-examples | starter-stdio-server](https://github.com/spring-projects/spring-ai-examples/tree/main/model-context-protocol/weather/starter-stdio-server)，
+开源许可证遵循原始项目
+
 # Spring AI MCP Weather STDIO Server
 
 A Spring Boot starter project demonstrating how to build a Model Context Protocol (MCP) server that provides weather-related tools using the National Weather Service (weather.gov) API. This project showcases the Spring AI MCP Server Boot Starter capabilities with STDIO transport implementation.
